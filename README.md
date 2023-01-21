@@ -1,4 +1,4 @@
-<h2 align="center">Ridwan Ali Raharja</h2>
+<h2 align="center">Muhammad Ridwan Ali Raharja</h2>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanraharja&layout=compact&theme=onedark" /></a> </p>
 <br/>
