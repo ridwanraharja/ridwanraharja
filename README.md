@@ -1,8 +1,8 @@
 <h2 align="center">Ridwan Ali Raharja</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ridwanraharja&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanraharja&layout=compact&theme=onedark" /></a> </p>
 <br/>
-<br/>
+
 <h2>What am i working on?</h2>
 
 * ReactJs & VueJs side-project
