@@ -1,18 +1,19 @@
 <h2 align="center">Ridwan Ali Raharja</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ridwanraharja&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+<br/>
+<h2>What am i working on?</h2>
 
-<!--
-**ridwanraharja/ridwanraharja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ReactJs & VueJs side-project
+* Learning more Web development & UI\UX Design through Udemy Courses
+* Working at Method as a Software Engineer (Web project)
 
-Here are some ideas to get you started:
+<h2>Connect with me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<a href="https://www.linkedin.com/in/ridwanraharja/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://twitter.com/ridwanraharja"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fjsedlacekjr"></a>
+<a href="https://www.youtube.com/channel/UC9uCTSWE_3udaHCc6-H9-9Q"><img src="https://img.shields.io/youtube/channel/subscribers/UC9uCTSWE_3udaHCc6-H9-9Q?style=social"></a>
+ </div><br>
+ 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ridwanraharja.ridwanraharja)
